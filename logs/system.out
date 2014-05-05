@@ -1,0 +1,6 @@
+Listening for transport dt_socket at address: 58584
+16:10:20,950 INFO  ~ Starting /Users/yangli8/Project/playground/Friendmap
+16:10:20,953 WARN  ~ Declaring modules in application.conf is deprecated. Use dependencies.yml instead (module.maven)
+16:10:20,954 INFO  ~ Module maven is available (/Users/yangli8/Project/playground/modules/maven)
+16:10:21,397 WARN  ~ You're running Play! in DEV mode
+16:10:21,461 ERROR ~ Could not bind on port 9000
